@@ -1,0 +1,15 @@
+export const REGISTER_SUCCESS = "REGISTER_SUCCESS";
+export const REGISTER_FAIL = "REGISTER_FAIL";
+
+export const WALLET_CONNECT = "WALLET_CONNECT";
+export const WALLET_DISCONNECT = "WALLET_DISCONNECT";
+
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAIL = "LOGIN_FAIL";
+export const LOGOUT = "LOGOUT";
+
+export const AUCTION_LOADED = "AUCTION_LOADED";
+
+export const SET_ALERT = "SET_ALERT";
+
+export const AUTH_ERROR = "AUTH_ERROR";

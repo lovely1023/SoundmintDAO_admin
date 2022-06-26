@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://sohamgohil:m1NFMKd4FNOSWiF0@cluster0.ziz55.mongodb.net/soundmintAdminpanel?retryWrites=true&w=majority",
+  "jwtSecret": "secret",
+  "sohamAddress":"0xdb56c254c5c2389843743e1694acaedb46265e82",
+  "ALLOWED_CLIENTS":"http://localhost:3000,http://localhost:5000,https://admin.soundmint.xyz"
+}
